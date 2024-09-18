@@ -13,9 +13,9 @@
      - Email - dehipitiya055@gmail.com
      - LinkedIn - [Tharindu Darshana](https://www.linkedin.com/in/tharindu-darshana-4ba32021b/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1234Tharindu&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dehipitiya&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1234Tharindu&layout=compact&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dehipitiya&layout=compact&show_icons=true&theme=radical)
 
 
 ## 📜 Other:
